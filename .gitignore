@@ -1,0 +1,4 @@
+/Data/*
+!/Data/Raw/
+/Data/Raw/*
+credentials
